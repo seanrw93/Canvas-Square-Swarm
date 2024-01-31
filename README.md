@@ -4,7 +4,7 @@ This project showcases an interactive HTML, CSS, and JavaScript animation of col
 
 ## Preview
 
-Check out the live version [here!](https://canvas-square-swarm.seanrw93.repl.co/)
+Check out the live version [here!](https://seanrw93.github.io/Canvas-Square-Swarm/)
 
 # Interactive Features:
 ## 1. Mouse Inflation
